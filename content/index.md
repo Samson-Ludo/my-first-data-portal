@@ -1,7 +1,5 @@
-# My Dataset
+# Welcome to Samson's data portal!
 
-Built with PortalJS 
+List of available datasets:
 
-## Table 
-
-<Table url="data.csv" />
+<Catalog datasets={datasets} facets={['groups']} />
